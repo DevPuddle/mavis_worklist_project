@@ -13,10 +13,34 @@
     justify-content: space-between;
 }
 
+.first_section {
+    margin-left: 35px;
+}
+
+.second_section {
+    margin-top: 25px;
+    margin-left: 35px;
+}
+
 .one {
     margin-bottom: 50px;
+}
+.two {
+    margin-top: 75px;
 }
 
 .pre_1 {
     margin-top: 50px;
+}
+
+.bottom_half {
+    margin-top: 175px;
+}
+
+.top {
+    text-align: center;
+}
+
+.footer_container {
+    display: flex;
 }
