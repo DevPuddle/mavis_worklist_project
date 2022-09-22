@@ -1,5 +1,22 @@
-/* .first_section {
-    color: blue;
-    height: 50px;
-    width: 50px;
-} */
+.h1_container {
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 50px;
+}
+.header {
+    margin-right: 275px;
+}
+
+
+.section_container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.one {
+    margin-bottom: 50px;
+}
+
+.pre_1 {
+    margin-top: 50px;
+}
